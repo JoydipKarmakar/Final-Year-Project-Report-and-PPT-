@@ -1,0 +1,22 @@
+\contentsline {chapter}{Certificate of Recommendation}{1}{}%
+\contentsline {chapter}{Certificate of Approval}{2}{}%
+\contentsline {chapter}{Acknowledgement}{3}{}%
+\contentsline {chapter}{Abstract}{9}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{10}{}%
+\contentsline {section}{\numberline {1.1}Introduction to Field Oriented Control}{10}{}%
+\contentsline {chapter}{\numberline {2}Induction Motor Plant Parameters and Dynamic Modelling}{12}{}%
+\contentsline {section}{\numberline {2.1}Plant Parameters}{12}{}%
+\contentsline {section}{\numberline {2.2}Mechanical Dynamics}{13}{}%
+\contentsline {chapter}{\numberline {3}Control System Architecture}{14}{}%
+\contentsline {section}{\numberline {3.1}Coordinate Transformations}{14}{}%
+\contentsline {subsection}{\numberline {3.1.1}Forward Clarke Transform}{14}{}%
+\contentsline {subsection}{\numberline {3.1.2}Forward Park Transform}{15}{}%
+\contentsline {subsection}{\numberline {3.1.3}Reverse Park Transform}{15}{}%
+\contentsline {section}{\numberline {3.2}Flux and Torque Decoupling Equations}{16}{}%
+\contentsline {section}{\numberline {3.3}Slip and Flux Angle Synthesis}{17}{}%
+\contentsline {chapter}{\numberline {4}Space Vector Pulse Width Modulation (SVPWM)}{18}{}%
+\contentsline {section}{\numberline {4.1}Algorithm Execution}{18}{}%
+\contentsline {chapter}{\numberline {5}Conclusions and Future Scope}{22}{}%
+\contentsline {section}{\numberline {5.1}Conclusions}{22}{}%
+\contentsline {section}{\numberline {5.2}Future Scope}{22}{}%
+\contentsline {chapter}{References}{23}{}%
