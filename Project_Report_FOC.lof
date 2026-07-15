@@ -1,0 +1,23 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Top-Level Simulink Model Architecture of the FOC for Induction Motor}}{8}{}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Scope Output: Transient and Steady-State Electromechanical Torque ($T_e$) Tracking the Load Demands}}{10}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Scope Output: Overall Mechanical Dynamics (Speed Tracking, Torque, and Stator Currents)}}{13}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Simulink Subsystem: Forward Clarke Transform ($abc$ to $\alpha \beta $)}}{14}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Simulink Subsystem: Forward Park Transform ($\alpha \beta $ to $dq$)}}{15}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Simulink Subsystem: Reverse Park Transform ($dq$ to $\alpha \beta $)}}{15}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Simulink Subsystem: $I_d^*$ Reference Calculation}}{16}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Simulink Subsystem: $I_q^*$ Reference Calculation}}{17}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Simulink Subsystem: IFOC Slip and Flux Angle Estimation}}{18}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Scope Output: Three-Phase Stator Currents ($I_a$, $I_b$, $I_c$) Responding to Load Transients}}{18}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Main Architecture of the Space Vector PWM Generation Subsystem}}{19}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Simulink Subsystem: Transformation to Magnitude ($V_{ref}$) and Angle ($\alpha $)}}{20}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Simulink Subsystem: Modulation Index Calculation}}{20}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Simulink Subsystem: Dwell Time ($T_1, T_2, T_0$) Calculation}}{21}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Scope Output: Calculated High-Frequency Dwell Times}}{21}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Simulink Subsystem: Detailed PWM Logic and Gate Signal Comparator Routing}}{22}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Scope Output: Duty Cycles of the High-Side Inverter Switches}}{22}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Simulink Subsystem: Three-Phase and Line-to-Line Inverter Voltage Calculation}}{22}{}%
+\addvspace {10\p@ }
